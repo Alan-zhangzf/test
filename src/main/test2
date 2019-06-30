@@ -1,0 +1,9 @@
+public Class person{
+private String name;
+public Person getPerson(){
+return this.person
+}
+public void setPerson(Person person){
+this.person=person;
+}
+}
